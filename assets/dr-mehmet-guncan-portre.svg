@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Dr. Mehmet Güncan — portrait placeholder">
+  <defs>
+    <linearGradient id="dg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#161822"/>
+      <stop offset="100%" stop-color="#101219"/>
+    </linearGradient>
+  </defs>
+  <circle cx="200" cy="200" r="200" fill="url(#dg)"/>
+  <circle cx="200" cy="200" r="196" fill="none" stroke="#d7bd73" stroke-width="2"/>
+  <circle cx="200" cy="155" r="58" fill="rgba(215,189,115,0.12)" stroke="#d7bd73" stroke-width="1.5"/>
+  <path d="M95 320 C110 250, 290 250, 305 320" fill="rgba(215,189,115,0.12)" stroke="#d7bd73" stroke-width="1.5"/>
+  <text x="200" y="370" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#f0dda0">Dr. M. Güncan</text>
+</svg>

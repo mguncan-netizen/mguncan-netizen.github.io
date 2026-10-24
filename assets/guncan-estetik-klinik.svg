@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-label="Klinik Ortamı">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#101219"/>
+      <stop offset="100%" stop-color="#0a0b10"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" fill="url(#g)"/>
+  <rect x="48" y="48" width="1104" height="604" rx="28" fill="none" stroke="#d7bd73" stroke-opacity=".35" stroke-width="2"/>
+  <circle cx="140" cy="140" r="36" fill="none" stroke="#d7bd73" stroke-width="2"/>
+  <text x="140" y="148" text-anchor="middle" fill="#d7bd73" font-family="Georgia, serif" font-size="28">G</text>
+  <text x="600.0" y="340.0" text-anchor="middle" fill="#f4f1e8" font-family="Georgia, serif" font-size="42">Klinik Ortamı</text>
+  <text x="600.0" y="386.0" text-anchor="middle" fill="#aeb2bd" font-family="Inter, system-ui, sans-serif" font-size="20">Özel Çekirge Kalp ve Aritmi Hastanesi</text>
+  <text x="600.0" y="630" text-anchor="middle" fill="#6a7080" font-family="Inter, system-ui, sans-serif" font-size="14">Güncan Estetik · Dr. Mehmet Güncan · Bursa</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-label="Blog hero placeholder">
+  <defs>
+    <linearGradient id="hg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#101219"/>
+      <stop offset="55%" stop-color="#0c0e14"/>
+      <stop offset="100%" stop-color="#161822"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="70%" cy="35%" r="45%">
+      <stop offset="0%" stop-color="#d7bd73" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#d7bd73" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#hg)"/>
+  <rect width="1600" height="900" fill="url(#glow)"/>
+  <g opacity="0.35" stroke="#d7bd73" stroke-width="1" fill="none">
+    <path d="M80 780 C420 620, 780 820, 1120 540 S1480 280, 1520 180"/>
+    <circle cx="1180" cy="300" r="120"/>
+    <circle cx="1180" cy="300" r="72"/>
+  </g>
+  <g fill="#f0dda0">
+    <text x="120" y="360" font-family="Georgia, serif" font-size="56" opacity="0.95">Güncan Estetik</text>
+    <text x="120" y="430" font-family="Inter, system-ui, sans-serif" font-size="28" fill="#aeb2bd">Premium Medical Aesthetics · Bursa</text>
+  </g>
+  <rect x="120" y="470" width="96" height="2" fill="#d7bd73"/>
+</svg>
