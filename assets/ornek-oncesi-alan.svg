@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 900" role="img" aria-label="Before placeholder — no patient photo">
+  <defs>
+    <linearGradient id="bgb" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#161822"/>
+      <stop offset="100%" stop-color="#101219"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="900" fill="url(#bgb)"/>
+  <rect x="48" y="48" width="704" height="804" rx="24" fill="none" stroke="rgba(215,189,115,0.28)" stroke-width="1.5"/>
+  <text x="400" y="140" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="14" letter-spacing="4" fill="#d7bd73">ÖNCE</text>
+  <ellipse cx="400" cy="420" rx="140" ry="180" fill="none" stroke="#aeb2bd" stroke-width="1.5" stroke-dasharray="8 8" opacity="0.55"/>
+  <circle cx="400" cy="360" r="70" fill="none" stroke="#aeb2bd" stroke-width="1.25" opacity="0.4"/>
+  <path d="M330 520 Q400 560 470 520" fill="none" stroke="#aeb2bd" stroke-width="1.25" opacity="0.4"/>
+  <text x="400" y="720" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#f4f1e8">Hasta fotoğrafı yok</text>
+  <text x="400" y="760" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="14" fill="#aeb2bd">Şematik yer tutucu</text>
+</svg>

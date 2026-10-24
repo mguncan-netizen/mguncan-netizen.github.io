@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="Infographic placeholder">
+  <rect width="1200" height="675" fill="#101219"/>
+  <rect x="1" y="1" width="1198" height="673" fill="none" stroke="rgba(215,189,115,0.28)" stroke-width="2"/>
+  <text x="600" y="72" text-anchor="middle" font-family="Georgia, serif" font-size="28" fill="#f0dda0">Tedavi Süreci</text>
+  <g font-family="Inter, system-ui, sans-serif">
+    <g transform="translate(100,160)">
+      <circle cx="80" cy="80" r="64" fill="rgba(215,189,115,0.12)" stroke="#d7bd73" stroke-width="1.5"/>
+      <text x="80" y="88" text-anchor="middle" font-size="28" fill="#d7bd73">01</text>
+      <text x="80" y="180" text-anchor="middle" font-size="18" fill="#f4f1e8">Konsültasyon</text>
+      <text x="80" y="208" text-anchor="middle" font-size="14" fill="#aeb2bd">Değerlendirme</text>
+    </g>
+    <g transform="translate(380,160)">
+      <circle cx="80" cy="80" r="64" fill="rgba(215,189,115,0.12)" stroke="#d7bd73" stroke-width="1.5"/>
+      <text x="80" y="88" text-anchor="middle" font-size="28" fill="#d7bd73">02</text>
+      <text x="80" y="180" text-anchor="middle" font-size="18" fill="#f4f1e8">Planlama</text>
+      <text x="80" y="208" text-anchor="middle" font-size="14" fill="#aeb2bd">Kişisel protokol</text>
+    </g>
+    <g transform="translate(660,160)">
+      <circle cx="80" cy="80" r="64" fill="rgba(215,189,115,0.12)" stroke="#d7bd73" stroke-width="1.5"/>
+      <text x="80" y="88" text-anchor="middle" font-size="28" fill="#d7bd73">03</text>
+      <text x="80" y="180" text-anchor="middle" font-size="18" fill="#f4f1e8">Uygulama</text>
+      <text x="80" y="208" text-anchor="middle" font-size="14" fill="#aeb2bd">Klinik prosedür</text>
+    </g>
+    <g transform="translate(940,160)">
+      <circle cx="80" cy="80" r="64" fill="rgba(215,189,115,0.12)" stroke="#d7bd73" stroke-width="1.5"/>
+      <text x="80" y="88" text-anchor="middle" font-size="28" fill="#d7bd73">04</text>
+      <text x="80" y="180" text-anchor="middle" font-size="18" fill="#f4f1e8">Takip</text>
+      <text x="80" y="208" text-anchor="middle" font-size="14" fill="#aeb2bd">Kontrol &amp; bakım</text>
+    </g>
+  </g>
+  <path d="M260 240 H380 M540 240 H660 M820 240 H940" stroke="#d7bd73" stroke-width="1" stroke-dasharray="4 6" opacity="0.5"/>
+  <text x="600" y="620" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#aeb2bd">Güncan Estetik · Bilgilendirme görseli (yer tutucu)</text>
+</svg>
