@@ -1,0 +1,19 @@
+{
+  "name": "Güncan Estetik Blog — Dr. Mehmet Güncan",
+  "short_name": "Güncan Blog",
+  "description": "Dr. Mehmet Güncan tarafından hazırlanan medikal estetik, lipoliz, mezoterapi ve PRP bilgilendirme yazıları (Bursa).",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#08090d",
+  "theme_color": "#c9a96e",
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
